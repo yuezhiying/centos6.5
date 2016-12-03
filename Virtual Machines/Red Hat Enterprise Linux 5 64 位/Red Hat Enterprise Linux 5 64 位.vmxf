@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 aa b6 9a 0c 1b e0 b4-54 b2 37 16 d8 6d 12 6e</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Red Hat Enterprise Linux 5 64 &amp;#xE4;&amp;#xBD;&amp;#x8D;.vmx</vmxPathName></VM></Foundry>
